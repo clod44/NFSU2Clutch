@@ -1,6 +1,8 @@
 # NFSU2Clutch
  Manual Clutch trainer mod for Need for speed underground 2
 
+[https://youtu.be/Twt7HC5NpSg](https://youtu.be/Twt7HC5NpSg)
+
 # Instructions
  - Download the repo (Green "Code" button. Download as zip)
  - Extract with 7zip/WinRAR etc
