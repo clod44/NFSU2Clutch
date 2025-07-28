@@ -1,3 +1,9 @@
+### update
+this is a very clunky proof-of-concept project. please see the more refined updated version inspired by this:
+https://github.com/sheysyn/NFS_UGs_and_MW_clutch_trainer
+
+
+
 # NFSU2Clutch
  Manual Clutch trainer mod for Need for speed underground 2
 
